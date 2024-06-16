@@ -1,2 +1,4 @@
 console.log("Hello, đây là Giang")
-console.log("Hello từ remote repo lần thứ nhất)")
+console.log("Đây là dòng thay đổi thứ nhất")
+console.log("Đây là thay đổi trực tiếp từ GitHub lần thứ nhất)")
+console.log("Hello từ local repo lần thứ nhất")
